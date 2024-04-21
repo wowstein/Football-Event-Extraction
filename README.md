@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This project is an an event extraction program that can convert football match videos into 'goal', 'loss' and 'happy' moments.For this purpose, I have created a CNN-LSTM classifier model to categorize each moment of the match.
+This project is an an event extraction program that can convert football match videos into 'goal', 'loss' and 'happy' moments. For this purpose, I have created a CNN-LSTM classifier model to categorize each moment of the match.
 All predicted moments(with a confidence of 0.7 or more) are then extracted into clips and placed in their corresponding directories.
 
 
