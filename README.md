@@ -9,6 +9,7 @@ All predicted moments(with a confidence of 0.7 or more) are then extracted into 
 <h2>Libraries Used</h2>
 
 - <b>Keras</b> 
+- <b>OpenCV</b>
 - <b>MoviePy</b>
 
 <h2>Environment Used </h2>
